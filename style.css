@@ -3,3 +3,10 @@ body {
   color: white;
   text-align: center;
 }
+
+button {
+  padding: 10px 20px;
+  background: white;
+  color: black;
+  border: none;
+}
